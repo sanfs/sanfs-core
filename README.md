@@ -121,4 +121,46 @@ LinkedIn: https://www.linkedin.com/company/sanfs-inc/
 
 ## License
 
-License to be defined.
+SanFS Core needs a clear licensing and contribution model before accepting code contributions.
+
+The goal is to balance:
+
+- public technical research
+- developer trust
+- open collaboration
+- protection of strategic IP
+- provisional patent strategy
+- future non-provisional patent filings
+- commercial deployments
+- long-term cooperative continuity principles
+
+Questions to evaluate:
+
+- Which parts of SanFS should become open source?
+- Which parts should remain proprietary to SANFS, Inc.?
+- Should SanFS Core use MPL-2.0, Apache-2.0, or another license?
+- Should documentation and architecture notes use a separate documentation license?
+- Should contributors sign a CLA or use a DCO?
+- How should patent-sensitive material be handled before publication?
+- How can SanFS attract serious developers without giving away strategic control too early?
+
+Initial direction:
+
+SanFS should likely follow an open-core / open-research model.
+
+Public:
+- architecture research
+- issues
+- discussions
+- selected reference components
+- developer tools
+- future SDKs
+
+Reserved:
+- production infrastructure
+- strategic implementation details
+- patent-sensitive mechanisms
+- commercial deployments
+- governance and security-critical modules
+
+Final decision should be made after legal and IP review.
