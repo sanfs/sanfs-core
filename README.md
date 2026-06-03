@@ -1,13 +1,14 @@
 # SanFS Core
 
-**Sovereign Autonomous Network & File System**
+**Technical Foundation for the SanFS Distributed Cloud File System**
 
-SanFS Core is the main technical repository for SanFS, an early-stage infrastructure project exploring sovereign continuity architecture for resilient, human-governed systems across Earth and orbit.
+SanFS Core is the main technical repository for SanFS: a human-governed distributed cloud file system and continuity layer for critical AI data across terrestrial and orbital infrastructure.
+
+This repository focuses on the architecture, protocols, storage models, recovery mechanisms, protected data flows, governance controls, and interoperability patterns needed to build resilient infrastructure across cloud, edge, and orbital systems.
 
 SanFS is not being designed as another isolated cloud competitor.
 
-It is being designed as a cooperative continuity layer: a framework where terrestrial and orbital infrastructure can cooperate, protect critical data, survive disruption, and remain under meaningful human authority.
-
+It is being designed as a cooperative continuity layer where terrestrial and orbital infrastructure can cooperate, protect critical data, survive disruption, and remain under meaningful human authority.
 ## Mission
 
 Critical digital infrastructure is becoming increasingly centralized, fragile, and exposed to systemic failure.
@@ -30,7 +31,7 @@ This repository is intended to become the technical foundation of the SanFS arch
 Initial areas of exploration include:
 
 - sovereign continuity architecture
-- distributed file system design
+- distributed cloud file system design
 - resilient data storage and recovery
 - protected and confidential data flows
 - autonomous network coordination
@@ -38,7 +39,7 @@ Initial areas of exploration include:
 - auditability and recovery mechanisms
 - infrastructure interoperability
 - edge and cloud infrastructure models
-- future terrestrial and orbital continuity scenarios
+- terrestrial-to-orbital continuity scenarios
 
 ## Core thesis
 
@@ -73,7 +74,7 @@ At this stage, we are looking for:
 Some of the questions SanFS Core is meant to explore:
 
 - What should a sovereign autonomous file system guarantee?
-- How should infrastructure continuity be designed across terrestrial and future orbital layers?
+- How should infrastructure continuity be designed across terrestrial and orbital layers?
 - What should remain human-governed?
 - Which autonomous actions are safe?
 - Which actions require human approval or override?
